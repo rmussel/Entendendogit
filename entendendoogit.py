@@ -1,1 +1,2 @@
-print("Hello World e Campos!")
+mensagem = "OI"
+print(mensagem)
